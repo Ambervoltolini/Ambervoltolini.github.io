@@ -65,3 +65,10 @@ body {
     color: #FF6EB4;
     text-shadow: 1px 1px #000;
 }
+
+.moldura {
+    border: 2px solid black; /* Define a moldura como uma linha sólida preta de 2px */
+    padding: 10px; /* Adiciona espaço interno para o conteúdo */
+    width: 305px; /* Define a largura do elemento */
+    background-color: RGBA( 148, 0, 211, 1 );
+}
